@@ -1,0 +1,12 @@
+{
+  "name": "portfoliogrid",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "homepage": "https://dokyan1989.github.io/portfoliogrid",
+  "scripts": {
+    "deploy": "gh-pages -d dist"
+  },
+  "author": "",
+  "license": "ISC"
+}
